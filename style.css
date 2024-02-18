@@ -1,0 +1,103 @@
+*{
+    margin-left: 10px;
+}
+body{
+    background-color: bisque;
+}
+.flex{
+    display: flex;
+    flex-direction: row;
+   margin-right: 20px;
+}
+h1{
+    text-align: center;
+}
+.border{
+    border: 1px solid;
+    width: 110px;
+    height: 190px;
+    border-radius: 5px;
+    background-color: rgb(207, 252, 205);
+
+
+}
+.border-radius{
+    background-color: white;
+    border: 1px solid;
+    padding: 40px 5px;
+    border-radius: 50%;
+    margin-right: 10px;
+    margin-top: 5px;
+}
+.border2{
+    border: 1px solid;
+    width: 40px;
+    height: 20px;
+    background-color: rgb(197, 196, 196);
+    border-radius: 10px;
+    margin-top: 20px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.margin-buttom{
+    margin-bottom: 10px;
+}
+.border-pink{
+    border: 1px solid;
+    width: 110px;
+    height: 190px;
+    border-radius: 5px;
+    background-color: rgb(249, 205, 253)
+
+}
+.border-blue{
+    margin-top: 20px;
+    border: 1px solid;
+    width: 110px;
+    height: 190px;
+    border-radius: 5px;
+    background-color: rgb(106, 231, 253)
+}
+.display-flex{
+    display: flex;
+    flex-direction: row;
+  
+
+}
+.border-orange{
+    margin-top: 20px;
+    border: 1px solid;
+    width: 110px;
+    height: 190px;
+    border-radius: 5px;
+    background-color: rgb(252, 164, 92)
+}
+.margin-button{
+    display: flex;
+    flex-direction: row;
+}
+.flex-direction{
+    display: flex;
+    flex-direction: row;
+}
+.borde{
+    display: flex;
+    flex-direction: row;
+}
+
+.border-green{
+    margin-top: 20px;
+    border: 1px solid;
+    width: 110px;
+    height: 190px;
+    border-radius: 5px;
+    background-color: rgb(51, 216, 120)
+}
+.border-white{
+    margin-top: 20px;
+    border: 1px solid;
+    width: 110px;
+    height: 190px;
+    border-radius: 5px;
+    background-color: rgb(238, 228, 228)
+}
